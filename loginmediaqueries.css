@@ -1,0 +1,164 @@
+@media (min-width:0px) and (max-width:768px) {
+    .d1 {
+        height: 300%;
+    }
+    .nav-bar {
+        display: none;
+    }
+    
+}
+@media (min-width:769px) and (max-width:1063px) {
+    .h3a {
+        font-size: 25px;
+    }
+    .nav-bar {
+        justify-content: space-between;
+    }
+    .nav-link {
+        font-size: 15px;
+    }
+    .search {
+        width: 30%;
+        height: 25px;
+        
+    }
+    .search-icon {
+        width: 10%;
+        height: 25px;
+    }
+    .search-bar {
+        width: 90%;
+        height: 20px;
+    }
+    .bsi {
+        font-size: 15px;
+    }
+    .bli {
+        font-size: 15px;
+    }
+}
+@media (min-width:0px) and (max-width:900px) {
+    .fmaintopsect {
+        flex-direction: column;
+    }
+    .fmaintopleft-sect {
+        width: 100%;
+    }
+    .fmaintopright-sect {
+        width: 100%;
+        border: 2px solid red;
+    }
+    .fmainbottom-sect {
+        flex-direction: column;
+    }
+    .fmainbottomleft-sect {
+        width: 100%;
+    }
+    .fmainbottomright-sect {
+        width: 100%;
+    }
+    .rules1 {
+        position: relative;
+        top: 2px;
+        right: 5px;
+    }
+    .rules2 {
+        position: relative;
+        top: 2px;
+        left: 8px;
+    }
+}
+@media (min-width:0px) and (max-width:500px) {
+    .cont-img {
+        width: 100%;
+        height: 100%;
+    }
+    .login-cont {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0%;
+    }
+    .user-icon {
+        color: red;
+        font-size: 100px;
+        position: absolute;
+        top: 25%;
+        left: 35%;
+    }
+    .login-cont h1 {
+        color: white;
+        position: absolute;
+        top: 40%;
+        left: 35%;
+    }
+    .box-cont {
+        width: 350px;
+        position: absolute;
+        top: 46%;
+        left: 3%;
+    }
+    .box {
+        width: 340px;
+    }
+    .cont-img a {
+        left: 72%;
+    }
+    .fmaintltop {
+        padding: 15px;
+    }
+    .fmaintltop h3 {
+        font-size: 30px;
+        text-align: center;
+    }
+    .fmaintltop p {
+        font-size: 12px;
+        text-align: center;
+    }
+    .fmaintlbottom h3 {
+        font-size: 30px;
+    }
+    .fmaintopright-sect {
+        padding-top: 60px;
+    }
+    .fmaintopright-sect h3 {
+        font-size: 30px;
+        position: relative;
+        top: 140px;
+        left: 80px;
+    }
+    .fmaintopright-sect p {
+        font-size: 15px;
+        position: relative;
+        top: 150px;
+        left: 0px;
+    }
+    .femail-sect {
+        position: relative;
+        top: 160px;
+        left: 85px;
+        width: 200px;
+        height: 30px;
+        margin-bottom: 10px;
+    }
+    .email-sect {
+        width: 200px;
+        height: 29px;
+    }
+    .fmaintopright-sect .p2 {
+        position: relative;
+        top: 170px;
+        left: 0;
+    }
+}
+@media (min-width:768px) and (max-width:900px) {
+    .cont-img {
+        width: 100%;
+        height: 100%;
+    }
+    .login-cont {
+        height: 100%;
+        position: absolute;
+        left: 15%;
+    }
+}

@@ -1,0 +1,408 @@
+@media (min-width:0px) and (max-width:768px) {
+    .d1 {
+        height: 2000%;
+    }
+    .nav-bar {
+        display: none;
+    }
+    
+}
+@media (min-width:0px) and (max-width:500px) {
+    .recent-update-top-sect {
+        display: flex;
+        flex-direction: column;
+    }
+    .recent-update-topleft-sect {
+        width: 100%;
+        height: 100%;
+        padding: 5px;
+        text-align: center;
+        font-size: 35px;
+    }
+    .recent-update-topright-sect {
+        width: 100%;
+        height: 100%;
+        padding: 5px;
+        font-size: 20px;
+        text-align: center;
+    }
+    .recent-update-bottom-sect {
+        width: 100%;
+        height: 90%;
+    }
+    .box {
+        margin: 20px;
+    }
+    .pbox {
+        margin: 20px;
+    }
+    .populartop-sect {
+        text-align: center;
+        font-size: 35px;
+    }
+    .mycard {
+        width: 350px;
+        height: 400px;
+        margin: 20px;
+    }
+    
+}
+@media (min-width:769px) and (max-width:1063px) {
+    .d1 {
+        height: 2000%;
+    }
+    .h3a {
+        font-size: 25px;
+    }
+    .nav-bar {
+        justify-content: space-between;
+    }
+    .nav-link {
+        font-size: 15px;
+    }
+    .search {
+        width: 30%;
+        height: 25px;
+        
+    }
+    .search-icon {
+        width: 10%;
+        height: 25px;
+    }
+    .search-bar {
+        width: 90%;
+        height: 20px;
+    }
+    .bsi {
+        font-size: 15px;
+    }
+    .bli {
+        font-size: 15px;
+    }
+}
+@media (max-width:768px) {
+    .box {
+        width: 300px;
+        height: 450px;
+    }
+    .pbox {
+        width: 300px;
+        height: 450px;
+    }
+}
+@media (min-width:0px) and (max-width:900px) {
+    .fmaintopsect {
+        flex-direction: column;
+    }
+    .fmaintopleft-sect {
+        width: 100%;
+    }
+    .fmaintopright-sect {
+        width: 100%;
+        border: 2px solid red;
+    }
+    .fmainbottom-sect {
+        flex-direction: column;
+    }
+    .fmainbottomleft-sect {
+        width: 100%;
+    }
+    .fmainbottomright-sect {
+        width: 100%;
+    }
+    .rules1 {
+        position: relative;
+        top: 2px;
+        right: 5px;
+    }
+    .rules2 {
+        position: relative;
+        top: 2px;
+        left: 8px;
+    }
+}
+@media (min-width:0px) and (max-width:500px) {
+    .img1-cont {
+        height: 365px;
+    }
+    .cardimg1 {
+        height: 365px;
+    }
+    .img2-cont {
+        height: 365px;
+    }
+    .cardimg2 {
+        height: 365px;
+    }
+    .img3-cont {
+        height: 365px;
+    }
+    .cardimg3 {
+        height: 365px;
+    }
+    .img4-cont {
+        height: 365px;
+    }
+    .cardimg4 {
+        height: 365px;
+    }
+    .img5-cont {
+        height: 365px;
+    }
+    .cardimg5 {
+        height: 365px;
+    }
+    .img6-cont {
+        height: 365px;
+    }
+    .cardimg6 {
+        height: 365px;
+    }
+    .img7-cont {
+        height: 365px;
+    }
+    .cardimg7 {
+        height: 365px;
+    }
+    .img8-cont {
+        height: 365px;
+    }
+    .cardimg8 {
+        height: 365px;
+    }
+    .pimg1-cont {
+        height: 365px;
+    }
+    .pcardimg1 {
+        height: 365px;
+    }
+    .pimg2-cont {
+        height: 365px;
+    }
+    .pcardimg2 {
+        height: 365px;
+    }
+    .pimg3-cont {
+        height: 365px;
+    }
+    .pcardimg3 {
+        height: 365px;
+    }
+    .pimg4-cont {
+        height: 365px;
+    }
+    .pcardimg4 {
+        height: 365px;
+    }
+    .blogtop-sect {
+        text-align: center;
+    }
+    .fmaintltop {
+        padding: 15px;
+    }
+    .fmaintltop h3 {
+        font-size: 30px;
+        text-align: center;
+    }
+    .fmaintltop p {
+        font-size: 15px;
+        text-align: center;
+    }
+    .fmaintlbottom h3 {
+        font-size: 30px;
+    }
+    .fmaintopright-sect {
+        padding-top: 60px;
+    }
+    .fmaintopright-sect h3 {
+        font-size: 30px;
+        position: relative;
+        top: 140px;
+        left: 80px;
+    }
+    .fmaintopright-sect p {
+        font-size: 15px;
+        position: relative;
+        top: 150px;
+        left: 0px;
+    }
+    .femail-sect {
+        position: relative;
+        top: 160px;
+        left: 85px;
+        width: 200px;
+        height: 30px;
+    }
+    .email-sect {
+        width: 200px;
+        height: 29px;
+    }
+    .fmaintopright-sect .p2 {
+        position: relative;
+        top: 170px;
+        left: 0;
+    }
+}
+@media (min-width:768px) and (max-width:900px) {
+    .img1-cont {
+        height: 365px;
+    }
+    .cardimg1 {
+        height: 365px;
+    }
+    .img2-cont {
+        height: 365px;
+    }
+    .cardimg2 {
+        height: 365px;
+    }
+    .img3-cont {
+        height: 365px;
+    }
+    .cardimg3 {
+        height: 365px;
+    }
+    .img4-cont {
+        height: 365px;
+    }
+    .cardimg4 {
+        height: 365px;
+    }
+    .img5-cont {
+        height: 365px;
+    }
+    .cardimg5 {
+        height: 365px;
+    }
+    .img6-cont {
+        height: 365px;
+    }
+    .cardimg6 {
+        height: 365px;
+    }
+    .img7-cont {
+        height: 365px;
+    }
+    .cardimg7 {
+        height: 365px;
+    }
+    .img8-cont {
+        height: 365px;
+    }
+    .cardimg8 {
+        height: 365px;
+    }
+    .pimg1-cont {
+        height: 365px;
+    }
+    .pcardimg1 {
+        height: 365px;
+    }
+    .pimg2-cont {
+        height: 365px;
+    }
+    .pcardimg2 {
+        height: 365px;
+    }
+    .pimg3-cont {
+        height: 365px;
+    }
+    .pcardimg3 {
+        height: 365px;
+    }
+    .pimg4-cont {
+        height: 365px;
+    }
+    .pcardimg4 {
+        height: 365px;
+    }
+} 
+@media (min-width:375px) {
+    .mycard {
+        width: 400px;
+        height: 500px;
+        border: 1px solid black;
+        margin-right: 30px;
+        margin-bottom: 20px;
+        border-radius: 20px;
+        margin-right: 20px;
+        overflow: hidden;
+        
+    }
+    .mycardtop {
+        width: 100%;
+        height: 55%;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        overflow: hidden;
+        /* border: 1px solid black; */
+    
+    }
+    .mycardbottom {
+        width: 100%;
+        height: 45%;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        overflow: hidden;
+        /* border: 1px solid black; */
+    
+    }
+    .imgcard1 {
+        width: 100%;
+        height: 100%;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        transition: all 1.1s;
+    }
+    .mycardtop:hover .imgcard1 {
+        transform: scale(1.2);
+    }
+    .mycard:hover .mycardtop .imgcard1 {
+        transform: scale(1.2);
+    }
+    .imgcard2 {
+        width: 100%;
+        height: 100%;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        transition: all 1.1s;
+    }
+    .mycardtop:hover .imgcard2 {
+        transform: scale(1.2);
+    }
+    .mycard:hover .mycardtop .imgcard2 {
+        transform: scale(1.2);
+    }
+    .imgcard3 {
+        width: 100%;
+        height: 100%;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        transition: all 1.1s;
+    }
+    .mycardtop:hover .imgcard3 {
+        transform: scale(1.2);
+    }
+    .mycard:hover .mycardtop .imgcard3  {
+        transform: scale(1.2);
+    
+    }
+    .mycard:hover .mycardbottom h3 {
+        color: blueviolet;
+    }
+    .mycardbottom {
+        background-color: black;
+    }
+    .mycardbottom h3 {
+        padding: 20px;
+        color: white;
+        font-size: 30px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    .mycardbottom p {
+        padding: 20px;
+        color: rgb(90, 90, 90);
+        font-size: 15pxpx;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+}
