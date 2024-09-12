@@ -21,12 +21,13 @@ html,body {
    background-color: black;
    /* border: 1px solid red; */
    display: flex;
+   flex-direction: row;
    justify-content: space-evenly;
    align-items: center;
 }
 .heading {
     /* border: 1px solid red; */
-    width: 20%;
+    width: 15%;
     height: 100px;
     display: flex;
     justify-content: center;
@@ -44,11 +45,13 @@ html,body {
     text-decoration: none;
 }
 .nav-bar {
-  width: 80%;
+  width: 65%;
   height: 100%;
   display: flex;
+  flex-direction: row;
   /* border: 1px solid red; */
-  margin-left: 20px;
+  margin-top: 13px;
+  /* margin-left: 20px; */
   justify-content: space-evenly;
   align-items: center;  
   list-style: none;
@@ -106,6 +109,11 @@ html,body {
 }
 input::placeholder {
     color: white;
+}
+.log-sign btn-sect {
+    width: 10%;
+    height: auto;
+    /* border: 2px solid red; */
 }
 .bsi {
     border: 2px solid orangered;
@@ -181,10 +189,10 @@ input::placeholder {
     overflow: hidden;
     
 }
-/* .slide-bar-sect img {
+.slide-bar-sect img {
     width: 100%;
     height: 100%;
-} */
+}
 .slide-img {
     width: 100%;
     height: 100%;
@@ -256,7 +264,7 @@ input::placeholder {
 .recent-update-sect {
     /* border: 1px solid red; */
     width: 100%;
-    margin-top: 50px;
+    /* margin-top: 50px; */
 }
 .recent-update-top-sect {
     width: 100%;

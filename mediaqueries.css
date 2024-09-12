@@ -1,10 +1,10 @@
-@media (min-width:0px) and (max-width:768px) {
+@media (min-width:0px) and (max-width:500px) {
     .d1 {
-        height: 2000%;
+        height: 1555%;
     }
-    .nav-bar {
+    /* .nav-bar {
         display: none;
-    }
+    } */
     
 }
 @media (min-width:0px) and (max-width:500px) {
@@ -381,5 +381,94 @@
         color: rgb(90, 90, 90);
         font-size: 15pxpx;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+}
+@media (min-width:0px) and (max-width:500px) {
+    .my-nav {
+        height: auto;
+        flex-direction: column;
+    }
+    .heading {
+
+        width: 100%;
+    }
+    .nav-bar {
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+    }
+    .search {
+        width: auto;
+    }
+    .search-icon {
+        width: auto;
+        padding: 5px;
+    }
+    .search-icon {
+        width: auto;
+    }
+    .fmaintlbottom h3 {
+        top: 60px;
+        left: 5px;
+    }
+    .fmaintlbottom .myficon {
+        top: 70px;
+        left: 5px;
+    }
+}
+@media (min-width:767px) and (max-width:900px) {
+    .d1 {
+        height: 740%;
+    }
+    .my-nav {
+        height: auto;
+        flex-direction: column;
+    }
+    .heading {
+
+        width: 100%;
+    }
+    .nav-bar {
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+    }
+    .search {
+        width: auto;
+    }
+    .search-icon {
+        width: auto;
+        padding: 5px;
+    }
+    .search-icon {
+        width: auto;
+    }
+    .slide-bar-sect {
+        height: auto;
+    }
+    .slide-bartext-sect {
+        position: absolute;
+        top: 5%;
+        left: 10%;
+    }
+    .slide-bartext-sect h1 {
+       font-size: 35px;
+    }
+    .slide-bartext-sect h2 {
+        font-size: 30px;
+    }
+    .slide-bartext-sect p {
+        font-size: 25px;
+    }
+    .blogtop-sect {
+        text-align: center;
+    }
+    .fmaintlbottom h3 {
+        top: 60px;
+        left: 3px;
+    }
+    .fmaintlbottom .myficon {
+        top: 70px;
+        left: 3px;
     }
 }

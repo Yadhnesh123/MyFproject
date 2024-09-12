@@ -114,6 +114,11 @@ html,body {
 input::placeholder {
     color: white;
 }
+.log-sign btn-sect {
+    width: 10%;
+    height: auto;
+    /* border: 2px solid red; */
+}
 .bsi {
     background-color: black;
     color: white;
@@ -375,6 +380,7 @@ input::placeholder {
 .popularmanga-sect {
     /* border: 1px solid red; */
     width: 100%;
+    height: auto;
     margin-top: 50px;
 }
 .popularmanga-top-sect {
